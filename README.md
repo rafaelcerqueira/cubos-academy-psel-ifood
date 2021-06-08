@@ -1,3 +1,3 @@
 # cubos-academy-psel-ifood
 
-Esses são meus códigos que fiz no desafio durante o Prosel da Cubos Academy e iFood. 
+Esses são os códigos que fiz no desafio do Prosel, para o curso programação do zero, da Cubos Academy e iFood.
